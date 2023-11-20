@@ -33,12 +33,11 @@ The program will prompt you to insert a password and then output the password st
 
 ## Contributors
 
-- [Your Name] - [Describe your contributions]
+- [shihabmuhtasim] 
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
-For any questions or feedback, feel free to contact [Your Email or Contact Information].
+For any questions or feedback, feel free to contact [shihabmuhtasim@gmail.com].
 
 Happy coding!
