@@ -33,7 +33,7 @@ The program will prompt you to insert a password and then output the password st
 
 ## Contributors
 
-- [shihabmuhtasim] 
+- [github.com/shihabmuhtasim] 
 
 ## License
 
