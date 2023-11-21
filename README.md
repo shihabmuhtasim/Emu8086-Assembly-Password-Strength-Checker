@@ -20,6 +20,8 @@ The output declaration is as follows:
 3. If 3 or 4 criteria are fulfilled: Weak password.
 4. If 0, 1, or 2 criteria are fulfilled or the length is less than 6: Very weak password.
 
+![output picture](https://github.com/shihabmuhtasim/Emu8086-Assembly-Password-Strength-Checker/assets/92597456/7046af4c-e0d3-4aa6-8899-d2b4f3c9bb8f)
+
 ## Usage
 
 Simply run the provided Assembly code on an emu8086 processor to check the strength of a password.
