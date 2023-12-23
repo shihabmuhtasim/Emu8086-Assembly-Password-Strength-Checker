@@ -1,5 +1,5 @@
 # Emu8086 Assembly Password Strength Checker
-An Assembly language project utilizing the emu8086 processor to assess password strength based on length, character types, and sequences. Categorizes passwords as Very Strong, Strong, Weak, or Very Weak.
+An Assembly language project utilizing the emu8086 processor to assess password strength based on length, character types, username existance and sequences. Categorizes passwords as Very Strong, Strong, Weak, or Very Weak.
 
 ## Description
 
@@ -12,15 +12,17 @@ This password strength checker, implemented in Assembly language for the emu8086
 5. At least one lowercase letter.
 6. No three same characters in a row (e.g., 111, 222).
 7. No three sequentially increasing inputs (e.g., 123, abc).
+8. The username of the user can't exist in the password.
 
 The output declaration is as follows:
 
 1. If all 7 criteria are fulfilled: Very strong password.
 2. If 5 or 6 criteria are fulfilled: Strong password.
 3. If 3 or 4 criteria are fulfilled: Weak password.
-4. If 0, 1, or 2 criteria are fulfilled or the length is less than 6: Very weak password.
+4. If 0, 1, or 2 criteria are fulfilled or the length is less than 6 or username exists in password: Very weak password.
 
-![output picture](https://github.com/shihabmuhtasim/Emu8086-Assembly-Password-Strength-Checker/assets/92597456/7046af4c-e0d3-4aa6-8899-d2b4f3c9bb8f)
+![output picture](https://github.com/shihabmuhtasim/Emu8086-Assembly-Password-Strength-Checker/assets/92597456/f270ebd1-9fc6-4ed5-b1c3-aca018ceafaf)
+
 
 ## Usage
 
