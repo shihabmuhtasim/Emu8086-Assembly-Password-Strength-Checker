@@ -1,5 +1,7 @@
 # Emu8086 Assembly Password Strength Checker
 An Assembly language project utilizing the emu8086 processor to assess password strength based on length, character types, username existance and sequences. Categorizes passwords as Very Strong, Strong, Weak, or Very Weak.
+
+
 ![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/Emu8086-Assembly-Password-Strength-Checker?color=f5f5dc)
 ![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/Emu8086-Assembly-Password-Strength-Checker?color=f5f5dc)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/Emu8086-Assembly-Password-Strength-Checker?color=f5f5dc)
