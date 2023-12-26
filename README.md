@@ -47,7 +47,7 @@ The program will prompt you to insert a password and then output the password st
 
 ## Contributors
 
-- [github.com/shihabmuhtasim] 
+- Shihab Muhtasim
 
 ## License
 
